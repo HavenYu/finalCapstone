@@ -40,7 +40,9 @@ B. Usage:
 2. Registering a user
    
    Input r in the main menu to register a new user.
-   
+
+   ![002](https://github.com/HavenYu/finalCapstone/assets/136474605/9cbe91b1-ddb7-4148-95b7-14bfab5d22ad)
+
    Input the new username.
    
    Input the password.
@@ -48,10 +50,12 @@ B. Usage:
    Input the password again.
    
 
-3. Adding a task
+4. Adding a task
    
    Input a in the main menu to add a new task.
-   
+
+   ![003](https://github.com/HavenYu/finalCapstone/assets/136474605/e2c8ac99-12a0-4108-ae2e-07c52487bcce)
+
    Input the name of person assigned to task.
    
    Input the title of task.
@@ -61,12 +65,12 @@ B. Usage:
    Input the due date of task.
    
 
-4. View all tasks
+6. View all tasks
    
    Input va in the main menu to view all tasks.
 
 
-5. View my task
+7. View my task
     
    Input vm in the main menu to view the tasks of the current user.
    
@@ -81,13 +85,13 @@ B. Usage:
      Input 2 to edit the due date.
    
 
-6. Generate reports (Only available for admin)
+8. Generate reports (Only available for admin)
     
    Input gr in the main menu to generate reports of tasks and users.
 
  
 
-7. Display statistics (Only available for admin)
+9. Display statistics (Only available for admin)
     
    Input ds in the main menu to display statistics of tasks and users.
 
