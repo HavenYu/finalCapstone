@@ -28,6 +28,8 @@ B. Usage:
 
 1. Log-in
    
+   ![001](https://github.com/HavenYu/finalCapstone/assets/136474605/5bba33e5-b804-4b20-8c64-5271e00f3bbf)
+
    Input username and password to log in and enter the main menu.
    
    Default username: admin
