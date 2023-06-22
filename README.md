@@ -12,9 +12,9 @@ A programme that allows the user to log in by username and password, register ne
 
 Table of content:
 
-A. Installation
+  A. Installation
 
-B. Usage
+  B. Usage
 
 
 
