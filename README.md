@@ -10,7 +10,21 @@ A programme that allows the user to log in by username and password, register ne
 
 
 
-Usage:
+Table of content:
+
+A. Installation
+
+B. Usage
+
+
+
+A. Insatllation:
+
+Download the file and run in a terminal. No installation is needed.
+
+
+
+B. Usage:
 
 1. Log-in
    
@@ -74,3 +88,7 @@ Usage:
 7. Display statistics (Only available for admin)
     
    Input ds in the main menu to display statistics of tasks and users.
+
+
+
+
